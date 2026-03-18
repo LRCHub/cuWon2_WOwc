@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "My First Love is Crying",
+  "base_artist": "aimyon",
+  "createdAt": "2026-03-18T03:48:15.302622Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My First Love is Crying",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/01_My_First_Love_is_Crying_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My First Love is Crying",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/02_My_First_Love_is_Crying_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "初恋が泣いている - My First Love is Crying",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/03_初恋が泣いている_-_My_First_Love_is_Crying_aimyon.lrc"
+    }
+  ]
+}
